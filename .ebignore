@@ -1,0 +1,14 @@
+# Ignore dev/build files — only include what EB needs
+node_modules
+src
+public
+.angular
+.vscode
+.git
+*.ts
+tsconfig*.json
+angular.json
+proxy.conf.json
+check-*.js
+karma.conf.js
+README.md
